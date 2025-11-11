@@ -29,11 +29,6 @@ This project demonstrates how concurrency in Go can drastically improve performa
 
 ## 🧩 Project Structure
 
-.
-├── main.go # Main entry point
-├── go.mod # Module file (created with go mod init)
-└── README.md # Project documentation
-
 
 ---
 
@@ -51,10 +46,12 @@ This project demonstrates how concurrency in Go can drastically improve performa
 
 ## 🧪 Example Output
 
+```bash
 PS D:\mygolang-lco\concurrent_webscrapper> go run main.go
+
 https://www.geeksforgeeks.org -> GeeksforGeeks | Your All-in-One Learning Portal
-https://github.com -> Twitch
+https://github.com -> GitHub: Let’s build from here · GitHub
 https://www.firefox.com -> Get Firefox for desktop and mobile — Firefox.com
 https://www.google.com -> Google
 https://golang.org -> The Go Programming Language
-https://www.microsoft.com -> Your Privacy Choices Opt-Out Icon
+https://www.microsoft.com -> Microsoft – Cloud, Computers, Apps & Gaming
