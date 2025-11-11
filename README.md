@@ -27,15 +27,6 @@ This project demonstrates how concurrency in Go can drastically improve performa
 
 ---
 
-## 🧩 Project Structure
-
-```bash
-.
-├── main.go        # Main entry point
-├── go.mod         # Module file (created with `go mod init`)
-└── README.md      # Project documentation
----
-
 ## ⚙️ How It Works
 
 1. A list of URLs is defined in the program.  
