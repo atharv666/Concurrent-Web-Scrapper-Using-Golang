@@ -29,6 +29,10 @@ This project demonstrates how concurrency in Go can drastically improve performa
 
 ## 🧩 Project Structure
 
+.
+├── main.go # Main entry point
+├── go.mod # Module file (created with go mod init)
+└── README.md # Project documentation
 
 ---
 
